@@ -121,4 +121,4 @@ const responseActions = { // client can expect these actions from ws server
 
 ### getUnreadMessages -> to get contact wise unread messages with count and messages both
 
-### this project was  possbile thanks to the astro team
+### this project was possible thanks to the astro team
