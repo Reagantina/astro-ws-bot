@@ -27,8 +27,13 @@ Follow The Steps Below!
 (after that tap on permission)
 > pkg update -y
 > pkg upgrade -y
-> pkg install 
-
+> pkg install git -y
+> git clone https://github.com/astrocccccc/astro-ws-bot.git
+> cd astro-ws-bot
+> npm cache clear
+> bash install.sh
+> npm audit fix
+> node index.js
 ```
 
 ## how to get started
