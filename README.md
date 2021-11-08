@@ -1,7 +1,7 @@
 # WhatsappBot
 
 ## What is this repository for?
-Simple websocket whastapp bot
+Simple websocket whastapp bot / also supports multi device / md
 
 
 ## server receives data in JSON format consisting action(a) and data(d) keys
